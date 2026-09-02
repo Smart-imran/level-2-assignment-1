@@ -16,4 +16,4 @@ function getCngFare(distance, isNight = false, waitingMinutes = 0) {
   return total;
 }
 
-console.log(getCngFare(2));
+console.log(getCngFare(10));
